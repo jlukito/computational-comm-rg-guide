@@ -27,7 +27,7 @@ Anyone. If you are interested in computational methods, and you want to organize
 Organizing a research group has as much to do with being able to organize events and manage details as it does with being able to code. Being able to schedule meetings, recruit members, and maintain a workflow is important to many coding projects. Therefore, **you do not need to be an expert in computational methods to organize a research group**. Similarly, **being great at programming does not make you an inherently good research group organizer.**
 
 ## How do I get started?
-First, go to the So you want to start a CMRG page. 
+First, go to the [starting-here](https://github.com/jlukito/computational-comm-rg-guide/tree/master/starting-here) folder. This will have all our basic resources for thinking about how to structure and organize your CMRG.  
 
 Once you've narrowed down the scope and goal of your research group, it's time to think about the events you want to organize, and the ways in which you want to recruit members. 
 
