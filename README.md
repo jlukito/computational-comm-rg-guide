@@ -1,5 +1,6 @@
 # Computational Methods Research Groups for the Social Sciences
 #### A guide to organizing research groups, events, and activities surrounding the use of computational methods to answer social science questions.
+*Josephine Lukito*
 
 Computational methods is a growing area of scholarship across many social science disciplines. As a naturally interdisciplinary endeavor, social science researchers using computational methods are used to collaborating with others to answer research questions at the intersection of multiple fields.
 
