@@ -12,26 +12,31 @@ Stand-alone events should be announced a month before it takes place, so that yo
 
 ## Programming Pedagogy 
 
-### Teacher-Student Ratio
 
 ## Facilitating a Wide Range of Knowledge 
+One of the things that makes computational methods resarch groups interesting is the wide range of experiences. Some members of your CMRG are going to be experts at a method or programming language, while others are just starting out. Of the events we discuss here, it is especially difficult to manage this in a teaching worksohp setting. However, there are ways of ensuring that your experienced coders remain engaged, while your new coders learn from the experts.
+
+### Surveying Prior to Your Workshop
+If you are running a workshop and you do not know the people who are attending, I storngly encourage you to send out a registration survey or pre-workshop survey, so you can learn about the experience level of your workshop participants. For example, if you are teaching a workshop on ensemble classifiers in Python, you want to make sure your participants are proficient in that language. 
 
 ### Teaching Assistants
+Experienced programmers can often serve as teaching assistants, helping out other coders throughout a workshop. This also helps the workshop presenter, who would otherwise have to stop a lecture to help a person. 
 
-### Additional challenging activities 
+### Adding Challenging Activities
+Add additional challenges to activities throughout a workshop. This can come in the form of more advanced tasks that are added onto different coding practice moments.
 
 ## Example Curriculums
 
 ## Tips and tricks
 * It helps to have two or three consistent datasets that are used throughout the year. I recommend:
-  * One well-known toy dataset (mtcars, iris, airplane)
-  * One Twitter corpus
+  * One well-known toy dataset
+  * One Twitter corpus with network data
   * One news corpus
 * Workshops should become increasingly more advanced over time
-  * It helps to have an “intro to R” and/or “intro to data science” workshop at the beginning of the semester
+  * It helps to have an “intro to data science” and/or "intro to statistics" workshop at the beginning of the semester
 * Materials should be produced on rmarkdown or Jupyter Notebooks for replicability and readability.
   * Materials should be publicly available, though we understand that these materials are for teaching in a presentation setting.
-* Materials for all workshops should be organized and available (we have used box, but Google Drive and Dropbox are equally acceptable).    * Workshop materials should be properly attributed to their author.
-* Send out workshop reminders the day before Friday.
-  * Not every workshop will need a follow up, but follow-up emails help with retention.
-
+* Materials for all workshops should be organized and available.  
+  * Workshop materials should be properly attributed to their author.
+* Send out meeting reminders the day before the workshop.
+  * Not every workshop will need a follow up, but follow-up emails help with retention. Consider sending them!
