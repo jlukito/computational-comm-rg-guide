@@ -1,4 +1,4 @@
-# Computational Methods Research Groups for the Social Sciences
+# Computational Communication Methods Research Groups
 #### A guide to organizing research groups, events, and activities surrounding the use of computational methods to answer social science questions.
 *Josephine Lukito*
 
