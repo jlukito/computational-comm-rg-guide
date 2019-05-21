@@ -2,7 +2,7 @@
 This folder is a resource for the many types of events you can organize for your CMRG. A list and description of them can be found below.
 
 ## [1] Research Teams
-**Active Learning | Online & Offline | 3-10 people **
+**Active Learning | Online & Offline | 3-10 people**
 Research teams are groups of three to ten people, organized by a team leader, who work together to complete a research project or answer a research question of their interest. Research teams can be a long-term, ongoing endeavor, or they can last the span of one or two papers. Research teams in computational methods research groups should use computational methods to answer a social science question,  attempt to advance computational methods tools, or both. 
 
 It is possible for members of a research team to come from multiple universities. However, it is the responsibility of the team lead to facilitate communication across all the team members, so as to not leave anyone out of the loop. Research teams usually begin with a primary topic of interest, and a few methods or strategies for answering questions about that topic. 
@@ -12,20 +12,20 @@ To make regular progress on a research project, I recommend that research teams 
 Learn more about teaching workshops [here](https://github.com/jlukito/computational-comm-rg-guide/blob/master/events/teaching-workshops.md).
 
 ## [2] Teaching Workshops
-** Learning New Methods | Offline & Recorded | 5+ people **
+**Learning New Methods | Offline & Recorded | 5+ people**
 
 Teaching workshops are opportunities for people to learn about new programming tools. They primarily serve two of our three mandates: (1) to teach people about computational methods, package, and libraries and (2) to train people in programming pedagogy. For this research, most teaching workshops should be facilitated by members of your computational methods research group, to give them an opportunity to hone their teaching skills.
 
 Workshops should occur regularly (weekly, every-other-week, or monthly would be optimal). In a department that has computational methods courses, teaching workshops should complement what is being taught in the course. However, workshops can facilitate a wider audience and should not depend on information being taught in a specific course. For example, a workshop that you teach in an academic setting can be open to graduate students across your campus. You can also record that workshop and make it available on Youtube, or convert the material into an online tutorial. 
 
 ## [3] Boot Camps / Workshop Series
-** Learning New Methods | Offline & Recorded | 5+ people **
+**Learning New Methods | Offline & Recorded | 5+ people**
 Bootcamps are a special type of workshop that takes place over multiple consecutive days (typically, 2 to 4) or for a long period of time (e.g., 6 hours). These boot camps should be focused on rigorously teaching a specific method, often ones that would take too long to teach in a typical teaching workshop. Boot camps are substantially more in-depth than teaching workshops. For example, if you want to delve into the statistics of different supervised machine learing algorithms for text classification in addition to coding, you likely want substantially longer than 2 hours to teach. 
 
 Example workshop topics include Hierarchical Linear Modeling, Machine Learning Algorithms, and Time Series analysis. For an example workshop, check out Josephine Lukito and Jordan Foley's Time Series Boot Camp. 
 
 ## [4] Presentations, brown bags, symposiums, colloquiums
-** Discussion | Offline & Recorded | 7+ people **
+**Discussion | Offline & Recorded | 7+ people**
 These are all events where one person comes in and discusses their work. They vary in levels of professionalism. Below are some general definitions to help you better-label your event.
 
 * **Presentation:** All-encompassing term for events in which a presentation is occurring. All subsequent terms listed below are types of presentations.
@@ -38,17 +38,17 @@ These events greatly benefit from funding in two ways. With funding, you can pay
 These events should also be recorded to build an online audience.
 
 ## [5] Conferences & Unconferences
-** Discussion | Offline | 10+ people **
+**Discussion | Offline | 10+ people**
 
 For online computational research groups, annual conferences would be a good opportunity to meet regularly.
 
 ## [6] Coding Days
-** Programming Practice | Offline & Online | 3+ people **
+**Programming Practice | Offline & Online | 3+ people**
 These are simply days where people get together to work on coding projects. They can work on their own projects, work through some teaching material, or coordinate activities with others. This is simply an opportunity for people to meet together and code, so that we can ask questions from one another.
 
 Coding days can take place offline and online
 
 ## [7] Regularly Scheduled Challenges
-** Programming Practice | On Your Own Time | NA ** 
+**Programming Practice | On Your Own Time | N/A** 
 
 Example: tidytuesdays
