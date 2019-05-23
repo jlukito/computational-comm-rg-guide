@@ -43,7 +43,7 @@ These events should also be recorded to build an online audience.
 ## [5] Conferences & Unconferences
 **Discussion | Offline | 10+ people**
 
-For online computational research groups, annual conferences would be a good opportunity to meet regularly.
+For online computational research groups, annual conferences are be a good opportunity to meet regularly. Conferences are also a good way to bring together researchers interested in a specific topic and to promote your research group's work to conference attendees. These take a substantially longer amount of time to plan and organize compared to some of the other events here, because you will have to take into account (1) multiple meeting times, (2) a multi-day schedule, and (3) lodging for any guests. 
 
 ## [6] Coding Days
 **Programming Practice | Offline & Online | 3+ people**
@@ -55,4 +55,12 @@ Coding days can take place offline and online
 ## [7] Regularly Scheduled Challenges
 **Programming Practice | On Your Own Time | N/A** 
 
-Example: tidytuesdays
+One way to encourage regular participation is to send a coding practice challenge (similar to a writing prompt, but for programming). This will encourage your resarch group members to work with different types of data and improve their programming skills.
+
+You also don't need to re-invent the wheel. There are many online challenges that you can promote in your own research group! I list a few below:
+
+1. [TidyTuesday](https://github.com/rfordatascience/tidytuesday): Weekly data science challenges in R (each week is a new dataset).
+2. [Storytelling with Data](http://www.storytellingwithdata.com/swdchallenge): Weekly anguage-neutral challenges about data visualization.
+3. [PyBites](https://pybit.es/pages/challenges.html): Weekly challenges in Python.
+
+It is important to keep in mind that these events are **not** competitions. They are opporutnities for your members to practice code and work with data. You can also learn a lot about a dataset if you have five or six different programmers working with the same data. 
