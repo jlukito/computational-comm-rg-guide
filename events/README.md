@@ -1,5 +1,5 @@
 # Events
-This folder is a resource for the many types of events you can organize for your CMRG. A list and description of them can be found below.
+This folder is a resource for the many types of events you can organize for your CMRG. A list and description of them can be found below. Most events can be adopted for both online and offline research groups. 
 
 ## [1] Research Teams
 **Active Learning | Online & Offline | 3-10 people**
@@ -50,7 +50,7 @@ For online computational research groups, annual conferences are be a good oppor
 
 These are simply days where people get together to work on coding projects. They can work on their own projects, work through some teaching material, or coordinate activities with others. This is simply an opportunity for people to meet together and code, so that we can ask questions from one another.
 
-Coding days can take place offline and online
+Coding days can take place offline and online.
 
 ## [7] Regularly Scheduled Challenges
 **Programming Practice | On Your Own Time | N/A** 
