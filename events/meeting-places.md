@@ -3,12 +3,14 @@ One of the most important things you'll have to think about is where you will be
 
 ## Offline Meeting Places
 
-### Universities
-
-### Community Centers
+* Universities (especially for academic CMRGs)
+* Community centers
+* Libraries
 
 ## Online Meeting Places
 
-### Skype
-
-### Jitsi
+* [Skype](https://www.skype.com/en/features/group-video-chat/)
+* [Jitsi](https://jitsi.org/)
+* [Google Hangout](https://chrome.google.com/webstore/detail/google-hangouts/nckgahadagoaajjgafhacjanaoiihapd)
+* [Anymeeting](https://www.anymeeting.com/)
+* [BlueJeans](https://www.bluejeans.com/) ($$$)
