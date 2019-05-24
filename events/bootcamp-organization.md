@@ -14,5 +14,5 @@ Bootcamps require a different orgaizational structure compared to teaching works
 
 # Boot Camp Material Examples
 
-* Time Series Boot Camp (Josephine Lukito & Jordan Foley) [Material](https://github.com/jlukito/timeseries-bootcamp)
-* Chicago R-Ladies Women's Package Workshop (Angela Li & Stephanie Kirmer) [Material](https://github.com/forwards/workshops/tree/master/Chicago2019)
+* Time Series Boot Camp (Josephine Lukito & Jordan Foley): [Material](https://github.com/jlukito/timeseries-bootcamp)
+* Chicago R-Ladies Women's Package Workshop (Angela Li & Stephanie Kirmer): [Material](https://github.com/forwards/workshops/tree/master/Chicago2019)
