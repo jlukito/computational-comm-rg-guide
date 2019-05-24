@@ -67,4 +67,5 @@ It is important to keep in mind that these events are **not** competitions. They
 
 ## [8] Reading Groups
 **Learning + Discussion | Online & Offline | N/A** 
+
 These are an opportunity for people to come together to read recently published papers of interest and discuss their implications. In CMRGs, these should obviously be papers using computational methods, perhaps in a topic of your choice. These groups are an opportunity for people to learn about the latest work being done in academia. 
