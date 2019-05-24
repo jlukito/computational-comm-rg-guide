@@ -27,3 +27,5 @@ I do **not** recommend adopting all these goals. This is meant to be a list of g
 ####For more on SMART goals, check out these links:
 * [https://socialmediaclub.org/blog/from-the-clubhouse/s-m-a-r-t-goals-in-social-media](https://socialmediaclub.org/blog/from-the-clubhouse/s-m-a-r-t-goals-in-social-media)
 * [http://studentleadership.com/smart-goal-examples/](http://studentleadership.com/smart-goal-examples/)
+* [https://zenplanner.com/establishing-smart-goals-to-set-your-clients-up-for-success/](https://zenplanner.com/establishing-smart-goals-to-set-your-clients-up-for-success/)
+* [https://temp.lionsclubs.org/EN/pdfs/SMART_Goal_Template.pdf](https://temp.lionsclubs.org/EN/pdfs/SMART_Goal_Template.pdf) - great SMART goals worksheet.
