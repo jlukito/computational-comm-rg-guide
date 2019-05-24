@@ -34,4 +34,4 @@ Once you've narrowed down the scope and goal of your research group, it's time t
 Finally, it's up to you to execute your plan: recruit members, run the event, and evaluate what you've done. 
 
 ## Authors & Collaborators
-**Josephine Lukito** is a Ph.D Student at UW-Madison. She led the UW-Madison SJMC Computational Methods Research Group from 2016 to 2019. You can learn more about the research group [here](http://computational.journalism.wisc.edu).
+**Josephine Lukito** (@jlukito) is a Ph.D Student at UW-Madison. She led the UW-Madison SJMC Computational Methods Research Group from 2016 to 2019. You can learn more about the research group [here](http://computational.journalism.wisc.edu).
