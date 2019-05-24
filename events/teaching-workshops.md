@@ -10,8 +10,6 @@ Workshops can be stand-alone events or coordinated as a sort-of curriculum.
 
 Stand-alone events should be announced a month before it takes place, so that you have an opportunity to promote that workshop. Coordinated workshops should be announced together. Following an academic schedule, I recommend providing a schedule of workshops at the beginning of each semester. Planning workshops together, before the start of a semester, will give you an opportunity to develop a “workshop arc”, much like you would organize a syllabus. For example, you probably want your workshop attendees to learn how to scrape their own data before you teach them how to perform statistical analyses on that data. 
 
-## Programming Pedagogy 
-
 
 ## Facilitating a Wide Range of Knowledge 
 One of the things that makes computational methods resarch groups interesting is the wide range of experiences. Some members of your CMRG are going to be experts at a method or programming language, while others are just starting out. Of the events we discuss here, it is especially difficult to manage this in a teaching worksohp setting. However, there are ways of ensuring that your experienced coders remain engaged, while your new coders learn from the experts.
@@ -26,6 +24,8 @@ Experienced programmers can often serve as teaching assistants, helping out othe
 Add additional challenges to activities throughout a workshop. This can come in the form of more advanced tasks that are added onto different coding practice moments.
 
 ## Example Curriculums
+* [Text-as-Data Syllabi](https://quanttext.com/analytical-text-programs1/)
+* UW Madison Computational Methods Reserch Group [Fall 2018](https://computational.journalism.wisc.edu/2018/11/15/updated-computational-methods-workshop-list/) and [Spring 2019](https://computational.journalism.wisc.edu/2019/04/03/updated-spring-2019-schedule/) Workshops
 
 ## Tips and tricks
 * It helps to have two or three consistent datasets that are used throughout the year. I recommend:
