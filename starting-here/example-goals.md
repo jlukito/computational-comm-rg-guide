@@ -24,7 +24,6 @@ I do **not** recommend adopting all these goals. This is meant to be a list of g
 * Submit a paper to a social science conference or publication.
 * Submit a paper to a computational conference.
 
-
-For more on SMART goals, check out these links:
+####For more on SMART goals, check out these links:
 * [https://socialmediaclub.org/blog/from-the-clubhouse/s-m-a-r-t-goals-in-social-media](https://socialmediaclub.org/blog/from-the-clubhouse/s-m-a-r-t-goals-in-social-media)
 * [http://studentleadership.com/smart-goal-examples/](http://studentleadership.com/smart-goal-examples/)
