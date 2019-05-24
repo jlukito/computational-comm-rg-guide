@@ -22,14 +22,14 @@ Below are some goals you may want to set:
 
 It is important to keep in mind that your  group's goals will evolve throughout the year. Your list of goals should be a "living document", meaning that it changes depending on what your CMRG is doing and what its focused on. You should evaluate your group's goals, and your progress towards them, every other month to every six months.
 
-Try not to set no more than three to five goals every year. This is important to making sure your list of goals are **attainable** and **realistic**. The more ambitious your goals, the fewer of them you should have.
+Try not to set no more than three to five goals every year. This is important to making sure your goals are **attainable** and **realistic**. The more ambitious your goals, the fewer of them you should have.
 
 ## Set Range of Participation
-You'll want to decide what kinds of members you want for your research group. There are two main types of groups: **online and offline** (keeping in mind that online groups can meet offline, and offline groups often have digital presences). Online groups communicate digitally and can come from anywhere. Most of the events for these research groups, therefore, should be online. Online groups need a strong digital infrastructure (e.g., chat system for meeting, space to code collaboratively or host workshops) in order to maintain a presence and grow followers. Online groups are great for bringing together computational researchers from across differet universities, cities, and even countries. 
+You'll want to decide what kinds of members you want for your research group. There are two main types of groups: **online and offline** (keeping in mind that online groups can meet offline, and offline groups often have digital presences). Online groups communicate digitally and can come from anywhere. Most of the events for these research groups, therefore, should be online. Online groups need a strong digital infrastructure (e.g., chat system for meeting, space to code collaboratively or host workshops) in order to maintain a presence and grow followers. Online groups are great for bringing together computational researchers from across different universities, cities, and even countries. 
 
-Offline research groups can be based in a campus (e.g., a research group of graduate students) or a geographic region (e.g., a research group of programmers in NYC). These research groups can meet together in-peson, allowing for an easier transformation of information and the possibility of social events (bowling is just not the same online, for example). 
+Offline research groups can be based in a campus (e.g., a research group of graduate students) or a geographic region (e.g., a research group of programmers in NYC). These research groups can meet together in-person, allowing for an easier transformation of information and the possibility of social events (bowling is just not the same online, for example). 
 
-You can also build a hybrid out of these two strategies. Perhaps you want to organize a group that meets regularly every other month, but has weekly activities and meetings every other week. This is do-able! It really depends on what you want to achieve with your group, and how quickly you hope to achieve it. 
+You can also build a hybrid out of these two strategies. Perhaps you want to organize a group that meets regularly every other month but has weekly activities and meetings every other week. This is do-able! It really depends on what you want to achieve with your group, and how quickly you hope to achieve it. 
 
 Below are some core questions you should ask yourself while you structure your research group:
 * Would you like to meet online, offline, or both?
@@ -39,6 +39,6 @@ Below are some core questions you should ask yourself while you structure your r
 * If your research group is academic, would it be open to members from other universities?
 
 ## Determine how regularly you are meeting
-Your meetings should be regularly, but how frequently they occur is mostly up to you and your members. Keep in mind that people are busy and may not have the time to accomodate multiple weekly in-person meetings. Sometimes, a meeting every other week, or even once a month, is enough. 
+Your meetings should be regularly, but how frequently they occur is mostly up to you and your members. Keep in mind that people are busy and may not have the time to accommodate multiple weekly in-person meetings. Sometimes, a meeting every other week, or even once a month, is enough. 
 
-You will likely modify how often you meet based on your membership. For example, you may begin meeting once a month, but find that your members want to meet more frequenty. Keep in mind that your organizational strategy should change as your research group develops. 
+You will likely modify how often you meet based on your membership. For example, you may begin meeting once a month, but find that your members want to meet more frequently. Keep in mind that your organizational strategy should change as your research group develops. 
