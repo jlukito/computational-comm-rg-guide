@@ -1,6 +1,8 @@
 # Example Goals
 
-Below is a list of example goals. I do **not** recommend adopting all these goals. This is meant to be a list of goals to inspire you or motivate you to write goals that fit your CMRG's needs.
+Below is a list of example goals. 
+
+I do **not** recommend adopting all these goals. This is meant to be a list of goals to inspire you or motivate you to write goals that fit your CMRG's needs.
 
 ## Membership & Administration
 * Have a certain # of members by the end of the year.
@@ -21,3 +23,8 @@ Below is a list of example goals. I do **not** recommend adopting all these goal
 * Create a package or library.
 * Submit a paper to a social science conference or publication.
 * Submit a paper to a computational conference.
+
+
+For more on SMART goals, check out these links:
+* [https://socialmediaclub.org/blog/from-the-clubhouse/s-m-a-r-t-goals-in-social-media](https://socialmediaclub.org/blog/from-the-clubhouse/s-m-a-r-t-goals-in-social-media)
+* [http://studentleadership.com/smart-goal-examples/](http://studentleadership.com/smart-goal-examples/)
