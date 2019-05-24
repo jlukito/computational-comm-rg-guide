@@ -4,10 +4,10 @@ As I mentioned in the introduction, organizing is essential to maintaining a Com
 ## Budget
 When you start your CMRG, you will likely be working with a zero or shoestring budget (i.e., you will have little to no money). That's totally okay! Most events don't require funding (or if they do, not a significant amount). However, if you want to bring food to your events or host larger functions (e.g., unconferences), make sure you schedule at least two months in the year for seeking sponsorship. 
 
-Another way to get funding, specifically for research teams and workshops, would be to request grants. 
+Another way to get funding, specifically for research teams and workshops, would be to request grants.
 
 ## Recruitment
-Recruitment is necessary to keep the group healthy. Every year, members move, become too busy, and vary in their commitment to the group (understandably so--life changes, after all). In order to maintain the group, CMRG members need to recruit and invite in new participants. In addition to recruiting members, it is the responsibility of the lead to encourage that members take on leadership roles, such as teaching workshops, running research teams, or organizing events. This process is an important learning mechanic within computational methods research groups: members are expected to "pay it forward" and help less experienced members of a research group.
+Recruitment is necessary to keep the group healthy. Every year, members move, become too busy, and vary in their commitment to the group (understandably so; life changes, after all). In order to maintain the group, CMRG members need to recruit and invite in new participants. In addition to recruiting members, it is the responsibility of the lead to encourage that members take on leadership roles, such as teaching workshops, running research teams, or organizing events. This process is an important learning mechanic within computational methods research groups: members are expected to "pay it forward" and help less experienced members of a research group.
 
 Following a University calendar, recruitment is done primarily at the beginning of the semester, although I encourage you to actively recruit throughout the year. 
 
