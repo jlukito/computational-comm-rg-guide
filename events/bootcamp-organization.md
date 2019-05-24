@@ -11,3 +11,8 @@ Bootcamps require a different orgaizational structure compared to teaching works
   * 2 teachers + 1 TA = 25 students max
   * Teachers: People who are lecturing, showing code, or guiding activities that are a part of the workshop
   * Teaching assistants: People who have offered to help others when they are struggling with code.
+
+# Boot Camp Material Examples
+
+* Time Series Boot Camp (Josephine Lukito & Jordan Foley) [Material](https://github.com/jlukito/timeseries-bootcamp)
+* Chicago R-Ladies Women's Package Workshop (Angela Li & Stephanie Kirmer) [Material](https://github.com/forwards/workshops/tree/master/Chicago2019)
