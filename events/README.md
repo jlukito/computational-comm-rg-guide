@@ -53,7 +53,7 @@ These are simply days where people get together to work on coding projects. They
 Coding days can take place offline and online.
 
 ## [7] Regularly Scheduled Challenges
-**Programming Practice | On Your Own Time | N/A** 
+**Programming Practice | Online & Offline | N/A** 
 
 One way to encourage regular participation is to send a coding practice challenge (similar to a writing prompt, but for programming). This will encourage your resarch group members to work with different types of data and improve their programming skills.
 
@@ -64,3 +64,7 @@ You also don't need to re-invent the wheel. There are many online challenges tha
 3. [PyBites](https://pybit.es/pages/challenges.html): Weekly challenges in Python.
 
 It is important to keep in mind that these events are **not** competitions. They are opporutnities for your members to practice code and work with data. You can also learn a lot about a dataset if you have five or six different programmers working with the same data. 
+
+## [8] Reading Groups
+**Learning + Discussion | Online & Offline | N/A** 
+These are an opportunity for people to come together to read recently published papers of interest and discuss their implications. In CMRGs, these should obviously be papers using computational methods, perhaps in a topic of your choice. These groups are an opportunity for people to learn about the latest work being done in academia. 
